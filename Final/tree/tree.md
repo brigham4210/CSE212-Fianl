@@ -228,8 +228,8 @@ print(f"The height is: {tree.get_height()}")
 # Try to find the height of the tree here
 ```
 
-# - [Answer](../tree-A.md)
+# - [Answer](tree-A.md)
 
 
 
-# - [back](welcome.md)
+# - [back](../welcome.md)
