@@ -1,8 +1,8 @@
-#Python Binary Tree Tutorial
+# Python Binary Tree Tutorial
 
 - [back](../welcome.md)
 
-##Introduction of Binary Tree:
+## Introduction of Binary Tree:
 A binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child. 
 
 In computing, binary trees are mainly used for searching and sorting as they provide a means to store data hierarchically. 
